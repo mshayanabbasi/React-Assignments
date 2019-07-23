@@ -35,6 +35,7 @@ acorn-globals@^3.1.0:
     acorn "^4.0.4"
 
 acorn-jsx@^3.0.0:
+
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-3.0.1.tgz#afdf9488fb1ecefc8348f6fb22f464e32a58b36b"
   integrity sha1-r9+UiPsezvyDSPb7IvRk4ypYs2s=

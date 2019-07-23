@@ -21,3 +21,4 @@ Basic working is also provided in App.js file.
 Please make sure that your application must be modular
 
 This exercise will help you practice almost all the topics we have learned so far specially state management one.
+
